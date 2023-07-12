@@ -1,6 +1,6 @@
 # Ivan Trusov
 
-Passionate developer, mainly working on Data✨ and ✨ML topics. 
+Passionate developer, mainly working on Data and ML topics. 
 
 My favorite programming languages are Python, Scala, Go, and Rust. 
 
