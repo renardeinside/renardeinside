@@ -1,8 +1,9 @@
 # Ivan Trusov
 
-Passionate developer, mainly working on ✨Data✨ and ✨ML✨ topics. 
+Passionate developer, mainly working on Data✨ and ✨ML topics. 
 
 My favorite programming languages are Python, Scala, Go, and Rust. 
+
 <!--
 **renardeinside/renardeinside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
